@@ -1,0 +1,31 @@
+.div1 {
+ border:1px black solid;
+ height:600px;
+ position: relative;
+}
+.div2 {
+    height:200px ;
+    width:400px;
+    background-color: #ccc;
+    position: relative;
+    position: absolute;
+    top:50%;
+    left:50%;
+    margin: -100px 0 0 -200px;
+}
+.div3 {
+
+   height:50px;
+   width:50px;
+   background-color: #fc0; 
+   border-radius: 0 0 200px 0;
+}
+.div4 {
+    position: absolute;
+    right:0;
+    bottom: 0;
+    height:50px;
+    width:50px;
+    background-color: #fc0; 
+    border-radius: 200px 0 0 0;
+}

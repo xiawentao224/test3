@@ -1,0 +1,40 @@
+#total {padding:20px;background-color: #ccc;border: #999;height: 450px;}
+#left {
+float:left;
+width:200px;
+height:80px;
+border:2px #aeaeae solid;
+padding:20px;
+background-color: white;
+}
+
+#right {
+    float:right;
+    width:80px;
+    height:400px;
+    border:2px #aeaeae solid;
+    padding:20px;
+    background-color: white;
+    position: absolute;
+    right:40px;
+    top:28px;
+    }
+
+.left1 {
+    float:right;
+}
+
+#midle {
+    width:auto;
+    height:400px;
+   margin-left: 280px;
+   margin-right: 170px;
+    border:2px #aeaeae solid;
+    background-color: white;
+    position: relative;
+}
+.midle1 {
+    position: absolute;
+    left:150px;
+    top:30px;
+}
